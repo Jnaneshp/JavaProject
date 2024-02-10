@@ -50,13 +50,13 @@ public class Main {
         System.out.println("Employee 1:");
         System.out.println("Name: " + employee1.getName());
         System.out.println("ID: " + employee1.getId());
-        System.out.println("Salary: $" + employee1.getSalary());
+        System.out.println("Salary: rs" + employee1.getSalary());
         System.out.println();
 
         System.out.println("Employee 2:");
         System.out.println("Name: " + employee2.getName());
         System.out.println("ID: " + employee2.getId());
-        System.out.println("Salary: $" + employee2.getSalary());
+        System.out.println("Salary: rs" + employee2.getSalary());
         System.out.println();
 
         
